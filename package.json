@@ -1,0 +1,28 @@
+{
+  "name": "@vinayakkulkarni/prettier-config-vue",
+  "description": "My Prettier config for Vue/Nuxt apps",
+  "version": "0.0.1",
+  "sideEffects": false,
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "files": [
+    "index.json"
+  ],
+  "main": "index.json",
+  "license": "MIT",
+  "author": {
+    "name": "Vinayak Kulkarni",
+    "url": "https://vinayakkulkarni.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vinayakkulkarni/prettier-config-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vinayakkulkarni/prettier-config-vue/issues"
+  },
+  "homepage": "https://github.com/vinayakkulkarni/prettier-config-vue#readme"
+}
